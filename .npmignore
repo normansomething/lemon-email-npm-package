@@ -1,0 +1,6 @@
+# Ignore these files when publishing
+src/script.js
+.git
+.gitignore
+node_modules/
+*.log
