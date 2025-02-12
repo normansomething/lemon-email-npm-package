@@ -1,4 +1,4 @@
-# Lemn API Node.js Client
+# Lemon Email API Node.js Client
 
 A comprehensive Node.js client for interacting with the Lemn email marketing API, providing easy access to email list management, broadcasts, transactional emails, and more.
 
